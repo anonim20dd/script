@@ -15,7 +15,7 @@ local image_1 = {
     ['src'] = 'https://raw.githubusercontent.com/anonim20dd/script/main/CmlYeniLogoo.png',
     ['sizeX'] = 208,
     ['sizeY'] = 208,
-    ['paddingX'] = -5, --use this to align it, currently 50 pixels from top right
+    ['paddingX'] = 5, --use this to align it, currently 50 pixels from top right
     ['paddingY'] = -10 --use this to align it, currently 50 pixels from top right
 }
 
