@@ -13,10 +13,10 @@ local image_0 = {
 --image_1 is used as the icon
 local image_1 = {
     ['src'] = 'https://raw.githubusercontent.com/anonim20dd/script/main/CmlYeniLogoo.png',
-    ['sizeX'] = 258,
-    ['sizeY'] = 258,
-    ['paddingX'] = 40, --use this to align it, currently 50 pixels from top right
-    ['paddingY'] = 40 --use this to align it, currently 50 pixels from top right
+    ['sizeX'] = 208,
+    ['sizeY'] = 208,
+    ['paddingX'] = 20, --use this to align it, currently 50 pixels from top right
+    ['paddingY'] = 20 --use this to align it, currently 50 pixels from top right
 }
 
 --this waits for the driver to not be in the setup screen, then starts the timer for the rule splash image
